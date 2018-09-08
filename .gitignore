@@ -171,3 +171,4 @@ fabric.properties
 
 # Added during development
 /manalysis/environment01/manalyze/manalyze/settings.py
+environment01/analyzemalware/analyzemalware/settings.py
