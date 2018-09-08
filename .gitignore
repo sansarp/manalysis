@@ -166,3 +166,8 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+
+
+# Added during development
+/manalysis/environment01/manalyze/manalyze/settings.py
